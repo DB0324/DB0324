@@ -2,7 +2,7 @@
 - 👀 I’m interested Python, machine learning
 - 🌱 I’m currently Python, machine learning and doing some projects.
 - 💞️ I’m looking to collaborate on any pyhton, machone learning project to explore my knowledge anf learning new things.
-- 📫 for contacts .. mailid-dhara035124@gmail.com
+- 📫 for contacts .. mailid-dharabambhroliya51@gmail.com
 
 
 <!---
