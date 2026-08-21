@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DB0324
-- 👀 I’m interested Python, machine learning
 - 🌱 I’m currently Python, machine learning and doing some projects.
-- 💞️ I’m looking to collaborate on any pyhton, machone learning project to explore my knowledge anf learning new things.
+- 💞️ I’m looking to collaborate on any pyhton, machine learning project to explore my knowledge anf learning new things.
 - 📫 for contacts .. mailid-dharabambhroliya51@gmail.com
 
 
